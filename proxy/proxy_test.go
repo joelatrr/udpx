@@ -28,7 +28,7 @@ import (
 	"os"
 	"time"
 
-	. "github.com/felipejfc/udpx/proxy"
+	. "github.com/joelatrr/udpx/proxy"
 	"go.uber.org/zap"
 
 	. "github.com/onsi/ginkgo"

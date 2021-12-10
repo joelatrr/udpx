@@ -1,4 +1,4 @@
-module github.com/felipejfc/udpx
+module github.com/joelatrr/udpx
 
 go 1.13
 
