@@ -1,6 +1,6 @@
 UDPX
 =========
-[![Build Status](https://github.com/joelatrr/actions/release.yml/badge.svg)](https://github.com/joelatrr/udpx/actions/workflows/release.yml)
+[![Build Status](https://github.com/joelatrr/udpx/actions/workflows/release.yml/badge.svg)](https://github.com/joelatrr/udpx/actions/workflows/release.yml)
 
 A Super Fast UDP Proxy that works as a NAT (has support to multiple clients) written in Golang.
 
