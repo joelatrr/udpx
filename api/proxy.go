@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/felipejfc/udpx/proxy"
+	"github.com/joelatrr/udpx/proxy"
 	"github.com/labstack/echo"
 )
 

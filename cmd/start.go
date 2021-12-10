@@ -25,8 +25,8 @@ package cmd
 import (
 	"os"
 
-	"github.com/felipejfc/udpx/api"
-	"github.com/felipejfc/udpx/proxy"
+	"github.com/joelatrr/udpx/api"
+	"github.com/joelatrr/udpx/proxy"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 )

@@ -22,7 +22,7 @@
 
 package main //import "github.com/felipejfc/udpx"
 
-import "github.com/felipejfc/udpx/cmd"
+import "github.com/joelatrr/udpx/cmd"
 
 func main() {
 	cmd.Execute(cmd.RootCmd)

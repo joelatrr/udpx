@@ -25,7 +25,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/felipejfc/udpx/proxy"
+	"github.com/joelatrr/udpx/proxy"
 	"github.com/spf13/cobra"
 )
 
